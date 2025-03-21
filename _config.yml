@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Title (display)
-title: Japan CSS Support Example Blog
+title: Japan CSS Support Purview Governance Blog
 # Sub Title (display)
-subtitle: Japan CSS Support Example Blog
+subtitle: Japan CSS Support Purview Governance Blog
 # Description
-description: Japan CSS Support Example Blog
+description: Japan CSS Support Purview Governance Blog
 
 # Keywords
 keywords:
-  - Information
-  - Example
+  - Purview
+  - Governance
 
-author: CSS Japan
+author: Purview Governance Support Japan
 
 # Tag (hexo helper)
 root_tag_generator:
@@ -24,9 +24,9 @@ root_tag_generator:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://cssjpn.github.io/blog/
+url: https://jppurview.github.io/blog/
 github:
-  url: https://github.com/cssjpn/blog-example/
+  url: https://github.com/jppurview/blog/
   posts_dir: articles
   default_branch: main
   # show last update and contributors from GitHub API and show in post header
@@ -37,13 +37,13 @@ skip_render:
   # Bing Webmaster
   - 'BingSiteAuth.xml'
   # Search Console
-  # - 'googlec1234567890abcde.html'
+  - 'google147dce93232a952e.html'
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:cssjpn/blog-example.git
+  repo: git@github.com:jppurview/blog.git
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }} [skip ci]"
 
