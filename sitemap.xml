@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jppurview.github.io/blog/example/</loc>
-    
-    <lastmod>2025-03-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://jppurview.github.io/blog/Information/how-to-change-network-settings/</loc>
     
     <lastmod>2025-03-24</lastmod>
@@ -26,13 +19,6 @@
   
   <url>
     <loc>https://jppurview.github.io/blog/tags/Information/</loc>
-    <lastmod>2025-03-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jppurview.github.io/blog/tags/Example/</loc>
     <lastmod>2025-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
