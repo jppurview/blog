@@ -1,6 +1,6 @@
 ---
 title: Purviewアカウントのネットワーク設定の変更
-date: 2025-03-25 12:00:00
+date: 2025-03-24 12:00:00
 tags:
   - Information
 disableDisclaimer: false
